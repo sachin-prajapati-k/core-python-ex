@@ -1,0 +1,7 @@
+tuple=("sachin",[5,9,1,2],"prajapati")
+print(tuple[0][2])
+print(tuple[0][5])
+print(tuple[1][1])
+print(tuple[1][3])
+print(tuple[2][1])
+print(tuple[2][3])
